@@ -15,5 +15,6 @@ Ideia Principal
 
  O funcionamento básico deste projeto pode ser descrito como uma central com interface humano máquina (IHM). Esta interface será composta de um display para mostrar ao usuário as informações e um teclado que será responsável por inserir as informações no sistema. A central será controlada por um microcontrolador ATmega-328 inserido a um Arduino contendo acesso a rede através de um módulo Wi-ﬁ ESP01.
 
+![Protótipo](https://user-images.githubusercontent.com/13524043/56086588-6bb55d80-5e30-11e9-803e-2db5ba1ac8ce.jpg)
 
 Video explicativo e demonstrativo do projeto: https://www.youtube.com/watch?v=6rcjnDxOom8&t=327s
